@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kellytnduong
-- 👀 I’m interested in programming, music, reading, watching anime, swimming and spending time with family and friends.
+- 👀 I’m interested in programming, AI, hardware, music, reading, photography and crochet!
 - 🌱 I’m currently learning Python, Java, C++, Figma and Photoshop!
-- 💞️ I’m looking to collaborate on any beginner projects!
+- 💞️ I’m looking to collaborate on any intermediate projects!
 - 📫 How to reach me: 
      - email me @ kelly.tn.duong@gmail.com!
      - add me on LinkedIn @ www.linkedin.com/in/kellytnduong!
-     - dm me on Instagram @ urstrulytuyet
+     - dm me on Instagram @ kellytuyetduong
