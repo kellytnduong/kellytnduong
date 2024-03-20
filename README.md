@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @kellytnduong
 - 👀 I’m interested in programming, AI/ML, hardware, music, and photography!
 - 🌱 I’m currently developing my skills in:
-     - Java        - React
-     - Python      - C++
-     - React       - Assembly
+     - Java
+     - React
+     - Python
+     - C++
+     - React
+     - Assembly
      - Javascript
 - 💞️ I’m looking to collaborate on any intermediate projects!
 - 📫 How to reach me: 
