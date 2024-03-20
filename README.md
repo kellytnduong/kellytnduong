@@ -4,7 +4,7 @@
      - Java
      - React
      - Python
-     - C++
+     - C/C++
      - React
      - Assembly
      - Javascript
