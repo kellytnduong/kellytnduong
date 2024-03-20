@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @kellytnduong
 - 👀 I’m interested in programming, AI, hardware, music, photography, reading and crochet!
-- 🌱 I’m currently learning Python, Java, C++, Figma, React and Photoshop!
+- 🌱 I’m currently developing my skills in:
+     - Java     - React
+     - Python   - C++
+     - React    - Assembly
+     - Javascript
 - 💞️ I’m looking to collaborate on any intermediate projects!
 - 📫 How to reach me: 
      - email me @ kelly.tn.duong@gmail.com!
