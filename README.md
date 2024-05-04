@@ -2,14 +2,9 @@
 - 👀 I’m interested in programming, AI/ML, hardware, music, and photography!
 - 🌱 I’m currently developing my skills in:
      - Java
-     - React
+     - React/Javascript
      - Python
      - C/C++
-     - React
-     - Assembly
-     - Javascript
-- 💞️ I’m looking to collaborate on any intermediate projects!
 - 📫 How to reach me: 
-     - email me @ kelly.tn.duong@gmail.com!
-     - add me on LinkedIn @ www.linkedin.com/in/kellytnduong!
-     - dm me on Instagram @ kellytuyetduong
+     - email me! @ kelly.tn.duong@gmail.com
+     - connect on LinkedIn! @ www.linkedin.com/in/kellytnduong
