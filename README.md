@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kellytnduong
-- 👀 I’m interested in programming, AI/ML, hardware, music, and photography!
+- 👀 I’m interested in embedded software, RTL design, archery, music, and photography!
 - 📫 How to reach me: 
      - email me! @ kelly.tn.duong@gmail.com
      - connect on LinkedIn! @ www.linkedin.com/in/kellytnduong
